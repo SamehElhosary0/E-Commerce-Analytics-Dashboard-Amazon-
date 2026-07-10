@@ -56,10 +56,10 @@ E-commerce stakeholders need visibility into revenue drivers across product cate
 
 <div align="center">
 
-<!-- [ADD: ![Overview](screenshots/ecommerce-01-overview.png)] -->
-<!-- [ADD: ![Sales](screenshots/ecommerce-02-sales.png)] -->
-<!-- [ADD: ![Customers](screenshots/ecommerce-03-customers.png)] -->
-<!-- [ADD: ![Stores & Employees](screenshots/ecommerce-04-stores.png)] -->
+![Overview](screenshots/ecommerce-01-overview.png)
+![Sales](screenshots/ecommerce-02-sales.png)
+![Customers](screenshots/ecommerce-03-customers.png)
+![Stores & Employees](screenshots/ecommerce-04-stores.png)
 <i>4-page dashboard: Overview · Sales · Customers · Stores &amp; Employees</i>
 
 </div>
@@ -89,6 +89,6 @@ This project uses a large-scale sample/practice dataset built to mirror real e-c
 <div align="center">
 
 **Sameh El-Hosary** | Data Analyst &amp; Business Intelligence Analyst
-[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](https://mail.google.com/mail/u/1/#inbox)
+[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email] (sameh.sabry656@gmail.com)
 
 </div>
