@@ -84,6 +84,6 @@ This project uses a large-scale sample/practice dataset built to mirror real e-c
 <div align="center">
 
 **Sameh El-Hosary** | Data Analyst &amp; Business Intelligence Analyst
-[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](sameh.sabry656@gmail.com)
+[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](https://mail.google.com/mail/u/1/#inbox)
 
 </div>
