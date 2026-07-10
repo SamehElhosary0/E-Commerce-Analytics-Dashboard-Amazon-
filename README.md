@@ -64,6 +64,11 @@ E-commerce stakeholders need visibility into revenue drivers across product cate
 
 </div>
 
+## 📑 Full Presentation
+
+📎 [View the full project presentation](Amazon_Dashboard_Presentation.pptx)
+
+
 ## 🔍 Approach
 
 1. **Data Preparation** — Cleaned and modeled order, customer, product, and store datasets using Power Query.
